@@ -1,6 +1,6 @@
 Algoritmo saludar
-	Escribir "�Cual Es tu nombre"
-	nombre<-string
+	Definir nombre Como Cadena
+	Escribir "¿Cuál es tu nombre?"
 	Leer nombre
 	Escribir "Hola, ", nombre
 FinAlgoritmo
